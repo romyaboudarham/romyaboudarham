@@ -8,6 +8,7 @@ Currently based in the bay area working as a creative technologist at [Californi
 
 | Project | What it is | Stack |
 |---|---|---|
+ [Curiosity Cards](https://github.com/romyaboudarham/curiosity-cards-app) | Tool instantly generating a deck of flashcards on any topic with features to organize and edit them. | Figma, Design Systems, React, Typescript, CSS, NextJS OpenAI API |
 | [Nowhere To Belong](https://romyaboudarham.com/projects/nowhere-to-belong) | 🏆 XRCC Winner — VR documentary tracing a Ukrainian refugee's journey to Berlin | Unity, C#, Gaussian Splats, Volumetric Video |
 | [With Shadows](https://romyaboudarham.com/projects/with-shadows) | VR grief experience — ran as a public exhibition for a month | Unity, C#, Oculus, Blender |
 | [Finn's Fishbowl](https://romyaboudarham.com/projects/finns-fishbowl) | Immersive interactive installation for gallery visitors | A-Frame, p5.js, ESP32, Projection Mapping |
