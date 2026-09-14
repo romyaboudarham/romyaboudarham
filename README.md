@@ -2,7 +2,7 @@
 
 **Creative Technologist**
 -- I work at the intersection of design and engineering, using emerging technologies to reduce the friction between design intent and implementation. 
-Currently based in the bay area working as a creative technologist at [California College of the Arts](https://www.cca.edu) and managing the Prototyping lab, where I design and help build the technical side of student projects.
+Currently based in the bay area working as a creative technologist at World Wide Technology. I have previous experience as a Software Developer for a startup and Meta, then pivoted into creative technology at [California College of the Arts](https://www.cca.edu) as a CT and Manager of the Prototyping lab, where I designed and helped build the technical side of student projects.
 
 ### Selected Work
 
